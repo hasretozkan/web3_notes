@@ -8,6 +8,8 @@ This repository contains my web3 notes that I have taken while learning about we
 
 - What is Web3?
 - ERAs of Web
+- Why we need Web 3.0?
+- Centralized vs Decentralized
 
 ## Support
 
