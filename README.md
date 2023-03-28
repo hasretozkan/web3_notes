@@ -11,6 +11,12 @@ This repository contains my web3 notes that I have taken while learning about we
 - Why we need Web 3.0?
 - Centralized vs Decentralized
 
+#### 2 - Blokchain
+
+- What is Blockchain?
+- What is Proof of Work?
+- What is Proof of Stake?
+
 ## Support
 
 For support, [email](mailto:hasretozkan1@gmail.com) or [tweet](https://twitter.com/0xhasret) to me.
