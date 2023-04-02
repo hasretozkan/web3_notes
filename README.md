@@ -16,6 +16,8 @@ This repository contains my web3 notes that I have taken while learning about we
 - What is Blockchain?
 - What is Proof of Work?
 - What is Proof of Stake?
+- PoW vs PoS
+- Hash, Token, Block
 
 ## Support
 
